@@ -1,1 +1,13 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+        "domain_suffix": [
+          "app-measurement.com",
+          "firebase.io",
+          "crashlytics.com",
+          "google-analytics.com"
+        ]
+    }
+  ]
+}
