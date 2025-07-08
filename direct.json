@@ -3,7 +3,11 @@
   "rules": [
     {
       "domain": [
-        "81775158.xyz"
+        "81775158.xyz",
+        "clash.razord.top",
+        "yacd.metacubex.one",
+        "yacd.haishan.me",
+        "d.metacubex.one"
       ]
     },
     {
@@ -13,7 +17,18 @@
     },
     {
       "domain_keyword": [
-        "miui"
+         "tencent",
+         "miui",
+         "xiaomi",
+         ".cn",
+         "mijia",
+         "aliyun",
+         "kaolafm",
+         "byd.com",
+         "byd.auto",
+         "baidu",
+         "hiecheimaetu",
+         "fnnas"
       ]
     }
   ]
