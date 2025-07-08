@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "81775158.xyz"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mtalk.google.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "miui"
+      ]
+    }
+  ]
+}
