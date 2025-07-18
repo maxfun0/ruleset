@@ -6,6 +6,12 @@
           "googleapis.cn",
           "medicalnewstoday.com"
         ]
+    },
+    {
+      "domain_keyword": [
+        "sing-box",
+        "github"
+      ]
     }
   ]
 }
