@@ -5,7 +5,9 @@
       "domain_suffix": [
           "googleapis.cn",
           "translate.google.cn",
-          "medicalnewstoday.com"
+          "medicalnewstoday.com",
+          "translate.google.com",
+          "translate.googleapis.com"
         ]
     },
     {
