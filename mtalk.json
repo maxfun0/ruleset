@@ -5,6 +5,9 @@
       "domain_keyword": [
         "mtalk.google.com"
       ]
-    }
+    },
+  "port": [
+        5228
+      ]
   ]
 }
