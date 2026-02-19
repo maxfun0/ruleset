@@ -2,11 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_keyword": [
-        "mtalk.google.com"
-      ],
       "port": [
-        5228
+         5228
       ]
     }
   ]
