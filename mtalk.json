@@ -4,10 +4,10 @@
     {
       "domain_keyword": [
         "mtalk.google.com"
-      ]
-    },
-  "port": [
+      ],
+      "port": [
         5228
       ]
+    }
   ]
 }
