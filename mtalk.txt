@@ -1,6 +1,3 @@
-127.0.0.1       localhost
-::1             ip6-localhost
-
 108.177.125.188 mtalk.google.com
 192.178.164.188 alt1-mtalk.google.com
 192.178.164.188 alt2-mtalk.google.com
