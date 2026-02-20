@@ -5,8 +5,3 @@
 74.125.200.188 alt4-mtalk.google.com
 74.125.200.188 alt7-mtalk.google.com
 192.178.131.188 alt8-mtalk.google.com
-
-2404:6800:4008:c07::bc mtalk.google.com
-2607:f8b0:4023:c0b::bc alt1-mtalk.google.com
-2607:f8b0:4023:1::bc alt5-mtalk.google.com
-2607:f8b0:4002:c03::bc alt7-mtalk.google.com
