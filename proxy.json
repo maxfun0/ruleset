@@ -15,6 +15,15 @@
         "sing-box",
         "github"
       ]
-    }
+    },
+   {
+      "domain": [
+        "firebaseinstallations.googleapis.com",
+        "translate-pa.googleapis.com",
+        "clients1.googleapis.com",
+        "geller-pa.googleapis.com",
+        "dl.googleapis.com"
+        ]
+   }
   ]
 }
