@@ -4,11 +4,11 @@
     {
       "domain_suffix": [
           "googleapis.cn",
+          "googleapis.com",
           "translate.google.cn",
           "medicalnewstoday.com",
           "translate.google.com",
-          "googlevideo.com",
-          "translate.googleapis.com"
+          "googlevideo.com"
         ]
     },
     {
@@ -19,11 +19,6 @@
     },
    {
       "domain": [
-        "firebaseinstallations.googleapis.com",
-        "translate-pa.googleapis.com",
-        "clients1.googleapis.com",
-        "geller-pa.googleapis.com",
-        "dl.googleapis.com",
         "guc3-spclient.spotify.com",
         "guc3-dealer.g2.spotify.com"
         ]
