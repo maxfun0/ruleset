@@ -22,7 +22,9 @@
         "translate-pa.googleapis.com",
         "clients1.googleapis.com",
         "geller-pa.googleapis.com",
-        "dl.googleapis.com"
+        "dl.googleapis.com",
+        "guc3--spclient.spotify.com",
+        "guc3- dealer.g2.spotify.com"
         ]
    }
   ]
