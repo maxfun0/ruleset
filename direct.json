@@ -12,20 +12,20 @@
       ]
     },
     {
+      "domain_suffix": [
+        "tencent.com",
+        "qq.com",
+        "baidu.com",
+        "aliyun.com",
+        "mi.com",
+        "xiaomi.com",
+        "deepseek.com"
+      ]
+    },
+    {
       "domain_keyword": [
-         "tencent",
-         "miui",
-         "xiaomi",
-         "mijia",
-         "aliyun",
-         "kaolafm",
-         "byd.com",
-         "byd.auto",
-         "baidu",
-         "hiecheimaetu",
-         "fnnas",
-         "fnos",
-         "deepseek"
+      "mijia",
+      "fnos"
       ]
     }
   ]
