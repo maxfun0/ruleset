@@ -6,8 +6,24 @@
           "app-measurement.com",
           "firebase.io",
           "crashlytics.com",
-          "google-analytics.com"
+          "google-analytics.com",
+          "doubleclick.net",
+          "googlesyndication.com",
+          "googleadservices.com"
         ]
+    },
+    {
+      "domain": [
+        "ads.spotify.com",
+        "audio-ads.spotify.com",
+        "ads-fa.spotify.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "doubleclick",
+        "adservice"
+      ]
     }
   ]
 }
