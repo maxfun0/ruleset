@@ -6,7 +6,9 @@
         "spotify.com",
         "spoti.fi",
         "cdn.branch.io"
-      ],
+      ]
+    },
+    {
       "domain_suffix": [
         ".spotify.com",
         ".scdn.co",
@@ -14,7 +16,9 @@
         ".spoti.fi",
         ".spotifycdn.com",
         ".spotifycdn.net"
-      ],
+      ]
+    },
+    { 
       "domain_keyword": [
         "spotify",
         "-spotify-com",
