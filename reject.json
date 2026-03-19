@@ -19,6 +19,8 @@
     {
       "domain": [
         "ads.spotify.com",
+        "guc3-spclient.spotify.com",
+        "guc3-dealer.g2.spotify.com",
         "audio-ads.spotify.com",
         "ad-api.adn-plus.com.cn",
         "ads-fa.spotify.com"
