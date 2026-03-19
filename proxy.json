@@ -22,6 +22,8 @@
    {
       "domain": [
         "aet.spotify.com",
+        "guc3-spclient.spotify.com",
+        "guc3-dealer.g2.spotify.com",
         "audio-ak.spotifycdn.com",
         "image-cdn.spotifycdn.com"
         ]
