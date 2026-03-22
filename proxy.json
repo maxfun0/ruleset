@@ -24,7 +24,7 @@
         "aet.spotify.com",
         "guc3-spclient.spotify.com",
         "guc3-dealer.g2.spotify.com",
-        "spclient.wg.spotify.com:443"
+        "spclient.wg.spotify.com"
         ]
    }
   ]
