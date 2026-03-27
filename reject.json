@@ -13,7 +13,13 @@
           "ads.google.com",  
           "zhangyuyidong.cn",
           "lf-cdn-tos.bytescm.com",
-          "dominos.com"
+          "audio-ak-spotify-com.akamaized.net",
+"ads.spotify.com",
+"spclient.wg.spotify.com",
+"events.spotify.com",
+"smetrics.spotify.com",
+"ads-fa.spotify.com",
+"cdn-spotify-experiments.conductrics.com"          
         ]
     },
     {
