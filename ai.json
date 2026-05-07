@@ -28,7 +28,8 @@
         "services.bingapis.com",
         "static.cloudflareinsights.com",
         "sydney.bing.com",
-        "www.bing.com"
+        "www.bing.com",
+        "robinfrontend-pa.googleapis.com"
       ],
       "domain_keyword": [
         "colab",
