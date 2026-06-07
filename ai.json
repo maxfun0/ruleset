@@ -3,21 +3,16 @@
   "rules": [
     {
       "domain": [
-        "chat.openai.com.cdn.cloudflare.net",
-        "gemini.google.com",
-        "robinfrontend-pa.googleapis.com"
+        "chat.openai.com.cdn.cloudflare.net"
       ],
       "domain_keyword": [
         "openai",
-        "openaicom-api",
-        "gemini"
+        "openaicom-api"
       ],
       "domain_suffix": [
         "chatgpt.com",
         "openai.com",
-        "openaicom-api",
-        "gemini.google.com",
-        "gemini.com"
+        "openaicom-api"
       ]
     }
   ]
