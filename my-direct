@@ -1,1 +1,39 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "81775158.xyz",
+        "clash.razord.top",
+        "yacd.metacubex.one",
+        "yacd.haishan.me",
+        "d.metacubex.one",
+        "m.stripe.com",
+        "js.stripe.com",
+        "appassets.androidplatform.net",
+        "api.revenuecat.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "tencent.com",
+        "qq.com",
+        "baidu.com",
+        "aliyun.com",
+        "mi.com",
+        "xiaomi.com",
+        "deepseek.com",
+        "wsdvs.com",
+        "csjdeveloper.com",
+        "guangyapan.com",
+        "scp.nosla.cloud"
+      ]
+    },
+    {
+      "domain_keyword": [
+      "mijia",
+      "fnos"
+      ]
+    }
+  ]
+}
