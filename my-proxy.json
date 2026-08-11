@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+          "googleapis.cn",
+          "services.googleapis.cn",
+          "googleapis.com",
+          "translate.google.cn",
+          "medicalnewstoday.com",
+          "translate.google.com",
+          "googlevideo.com",
+          "dl.google.com",
+          "inbox.google.com",
+          "developer.android.com"
+        ]
+    },
+    {
+      "domain_keyword": [
+        "sing-box",
+        "github"
+      ]
+    },
+   {
+      "domain": [
+        "aet.spotify.com",
+        "guc3-spclient.spotify.com",
+        "guc3-dealer.g2.spotify.com",
+        "spclient.wg.spotify.com",
+        "login5.spotify.com"
+        ]
+   }
+  ]
+}
