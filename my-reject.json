@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+        "domain_suffix": [
+          "app-measurement.com",
+          "firebase.io",
+          "crashlytics.com",
+          "google-analytics.com",
+          "doubleclick.net",
+          "googlesyndication.com",
+          "googleadservices.com",
+          "ads.google.com",  
+          "zhangyuyidong.cn",
+          "lf-cdn-tos.bytescm.com"         
+        ]
+    },
+    {
+      "domain": ["ads.google.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "doubleclick",
+        "adservice"
+      ]
+    }
+  ]
+}
