@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "spotify.com",
+        "spoti.fi",
+        "cdn.branch.io"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".spotify.com",
+        ".scdn.co",
+        ".pscdn.co",
+        ".spoti.fi",
+        ".spotifycdn.com",
+        ".spotifycdn.net"
+      ]
+    },
+    { 
+      "domain_keyword": [
+        "spotify",
+        "-spotify-com",
+        "spotify.com"
+      ]
+    }
+  ]
+}
