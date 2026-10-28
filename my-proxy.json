@@ -27,7 +27,8 @@
         "guc3-spclient.spotify.com",
         "guc3-dealer.g2.spotify.com",
         "spclient.wg.spotify.com",
-        "login5.spotify.com"
+        "login5.spotify.com",
+        "connectivitycheck.gstatic.com"
         ]
    }
   ]
